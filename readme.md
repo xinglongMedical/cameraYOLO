@@ -3,6 +3,7 @@
 通过YOLO框架，实现对海康威视摄像头的智能识别物体。
 本项目来源于国家健康医疗大数据研究院工程中心，请通过邮箱wych@sdu.edu.cn联系我们
 
+
 ## 目录
 
 1. [简介](#简介)
@@ -51,3 +52,5 @@
 
 - [YOLO官方文档](https://pjreddie.com/darknet/yolo/)
 - [海康威视摄像头API文档](https://www.hikvision.com/cn/support/download/)
+
+thanks
