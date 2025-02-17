@@ -52,5 +52,3 @@
 
 - [YOLO官方文档](https://pjreddie.com/darknet/yolo/)
 - [海康威视摄像头API文档](https://www.hikvision.com/cn/support/download/)
-
-thanks
